@@ -369,7 +369,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-left: 10px;
   padding-right: 10px;
 }
-.fh5co-social-icons li a i {
+.fh5co-social-icons li {
   font-size: 20px;
 }
 
@@ -382,13 +382,13 @@ h1, h2, h3, h4, h5, h6, figure {
   list-style: none;
   display: -moz-inline-stack;
   display: inline-block;
-  zoom: 1;
+  /* zoom: 1; */
   *display: inline;
 }
 #fh5co-about .fh5co-social-icons li a {
   display: -moz-inline-stack;
   display: inline-block;
-  zoom: 1;
+  /* zoom: 1; */
   *display: inline;
   color: #fff;
   background: #2F3C4F;
@@ -1290,4 +1290,4 @@ input[type="text"] {
   opacity: 0;
 }
 
-/*# sourceMappingURL=style.css.map */
+
